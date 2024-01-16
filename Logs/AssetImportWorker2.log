@@ -1,0 +1,442 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.16f1 (7321c9670bc2) revision 7545289'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 16309 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/529644/Animating character rigs
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+53611
+Successfully changed project path to: C:/Users/529644/Animating character rigs
+C:/Users/529644/Animating character rigs
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 139.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.16f1 (7321c9670bc2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/529644/Animating character rigs/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x2188)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.3758
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56760
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.506848 seconds.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 69.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.407 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6408ms)
+		BeginReloadAssembly (3848ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (1625ms)
+			LoadAssemblies (3874ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (838ms)
+				TypeCache.Initialize (838ms)
+					TypeCache.ScanAssembly (836ms)
+				ResolveRequiredComponents (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (675ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (467ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (70ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (88ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007876 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\529644\Animating character rigs\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\529644\Animating character rigs\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.542 seconds
+Domain Reload Profiling:
+	ReloadAssembly (5542ms)
+		BeginReloadAssembly (134ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (5223ms)
+			LoadAssemblies (2865ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (823ms)
+				TypeCache.Initialize (819ms)
+					TypeCache.ScanAssembly (815ms)
+				ResolveRequiredComponents (4ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (1465ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (47ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (87ms)
+				ProcessInitializeOnLoadAttributes (289ms)
+				ProcessInitializeOnLoadMethodAttributes (1011ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3404 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (58.2 KB). Loaded Objects now: 3866.
+Memory consumption went from 0.51 GB to 0.51 GB.
+Total: 2.889000 ms (FindLiveObjects: 0.298100 ms CreateObjectMapping: 0.085000 ms MarkObjects: 2.439500 ms  DeleteObjects: 0.065500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 102844.930138 seconds.
+  path: Assets/Mocap animations/Walk.fbx
+  artifactKey: Guid(41ed491f0c4e76a43a733a213716651d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Walk.fbx using Guid(41ed491f0c4e76a43a733a213716651d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd7a61d5f076dd04f24eaf176b91155b') in 0.056655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.548636 seconds.
+  path: Assets/Mocap animations/Walk.bvh
+  artifactKey: Guid(36426fba32c9cfc4babfab58c333be2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Walk.bvh using Guid(36426fba32c9cfc4babfab58c333be2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fa02eaf7aad7a809e6d0aaf30d8eac') in 0.005735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.178913 seconds.
+  path: Assets/Mocap animations/Clip_6.fbx
+  artifactKey: Guid(1cd4db0dd4712b84bb3af6f3926084af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Clip_6.fbx using Guid(1cd4db0dd4712b84bb3af6f3926084af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4feb8f0d011ce55c26cdd18a1606b43e') in 0.016684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.880361 seconds.
+  path: Assets/Mocap animations/Clip_5.fbx
+  artifactKey: Guid(630aba1a3760f2e4a93b4c1bae0c3913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Clip_5.fbx using Guid(630aba1a3760f2e4a93b4c1bae0c3913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32d09c26c723ff7e2ba871f1a5c3573') in 0.016661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.270567 seconds.
+  path: Assets/Mocap animations/Clip_4.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Clip_4.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7d5855abd5a44d918bfcb4ce092a35') in 0.016969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.688075 seconds.
+  path: Assets/Mocap animations/Clip_3.fbx
+  artifactKey: Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Clip_3.fbx using Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adea1a703a6bf56c852e43233ad554c9') in 0.017871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.885131 seconds.
+  path: Assets/Mocap animations/Clip_2.fbx
+  artifactKey: Guid(7f8957b5dcc84324a9e40ee7de35d08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Clip_2.fbx using Guid(7f8957b5dcc84324a9e40ee7de35d08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff28083d79b3280b8baf0f27cca53ebd') in 0.015604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.028852 seconds.
+  path: Assets/Mocap animations/Clip.fbx
+  artifactKey: Guid(4ab02b748fcc36c42be555a2b52b8e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Clip.fbx using Guid(4ab02b748fcc36c42be555a2b52b8e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de83e7febd95c7e10ad4a033aa24a77b') in 0.017833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.751551 seconds.
+  path: Assets/Mocap animations/Biomech_Mutant_Skin_1_bloody.controller
+  artifactKey: Guid(06007790dc0a1714ca9b151871987fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Biomech_Mutant_Skin_1_bloody.controller using Guid(06007790dc0a1714ca9b151871987fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a0daa290d44150e7a595a4c08f4686') in 0.012550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 170.478890 seconds.
+  path: Assets/Mocap animations/Walk_1.fbx
+  artifactKey: Guid(4ab02b748fcc36c42be555a2b52b8e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Walk_1.fbx using Guid(4ab02b748fcc36c42be555a2b52b8e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13ccc75176ac4c3cf08f4506ba1d5e2') in 0.017442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.962515 seconds.
+  path: Assets/Mocap animations/Run_1.fbx
+  artifactKey: Guid(7f8957b5dcc84324a9e40ee7de35d08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Run_1.fbx using Guid(7f8957b5dcc84324a9e40ee7de35d08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d363768a0cad7e99a168efb159cbce') in 0.015776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.966880 seconds.
+  path: Assets/Mocap animations/Idle_1.fbx
+  artifactKey: Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Idle_1.fbx using Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28abc34586c3577e3bbf6b45a7facf01') in 0.019086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 77.851111 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fce96c984705639053fa99c55bba3fb') in 0.017147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.304835 seconds.
+  path: Assets/Mocap animations/MonsterRunFall.fbx
+  artifactKey: Guid(630aba1a3760f2e4a93b4c1bae0c3913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterRunFall.fbx using Guid(630aba1a3760f2e4a93b4c1bae0c3913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031b94ae52be5bd9355f15ef4fe60dcd') in 0.016470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.499846 seconds.
+  path: Assets/Mocap animations/MonsterRun.fbx
+  artifactKey: Guid(1cd4db0dd4712b84bb3af6f3926084af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterRun.fbx using Guid(1cd4db0dd4712b84bb3af6f3926084af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a7a3b574780f79745a5b812cdbed5e') in 0.016616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.402974 seconds.
+  path: Assets/Mocap animations/New Animation.anim
+  artifactKey: Guid(ecedfbaf65417e6449bb4986c7cde325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/New Animation.anim using Guid(ecedfbaf65417e6449bb4986c7cde325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171b57f5db7297d9a1fd3f74a8198d26') in 0.012709 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.692831 seconds.
+  path: Assets/Mocap animations/Monster.controller
+  artifactKey: Guid(39a74a44b47041841a7b7c8e80ca7472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Monster.controller using Guid(39a74a44b47041841a7b7c8e80ca7472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04436dff24146bd75d265b0880b42312') in 0.011358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.876068 seconds.
+  path: Assets/Mocap animations/Mesh_Bio_Mutant.controller
+  artifactKey: Guid(8e05404a79e5edb4aa4575c825607fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Mesh_Bio_Mutant.controller using Guid(8e05404a79e5edb4aa4575c825607fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2abb3136ba4cb778f09bf7e3be4c3904') in 0.010392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 127.890096 seconds.
+  path: Assets/Mocap animations/Idle_1.fbx
+  artifactKey: Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Idle_1.fbx using Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e667220ac521e5bdf013e73be4cf0c9') in 0.011586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 90.387339 seconds.
+  path: Assets/Mocap animations/Idle_1.fbx
+  artifactKey: Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Idle_1.fbx using Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01704d37211714b1e498bcf4299c422f') in 0.007921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.310442 seconds.
+  path: Assets/Mocap animations/Idle_1.fbx
+  artifactKey: Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Idle_1.fbx using Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4931508f8553ffb0e6f9cd85c83d14') in 0.007783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.870995 seconds.
+  path: Assets/Mocap animations/Idle_1.fbx
+  artifactKey: Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/Idle_1.fbx using Guid(2052d20ec3c0e664ea93a01d185eccd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ec505c1bd7524159e192a5d5c75581') in 0.011257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 125.043104 seconds.
+  path: Assets/Mocap animations/MonsterRun.fbx
+  artifactKey: Guid(1cd4db0dd4712b84bb3af6f3926084af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterRun.fbx using Guid(1cd4db0dd4712b84bb3af6f3926084af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fefc995b35f024cf9727dd31daec6062') in 0.009742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1854.534716 seconds.
+  path: Assets/Animations/WALK-RUN-CYCLES-MOCAP/WALK-RUN-CYCLES-MOCAP/08-Loop_HappyWalk_MIXAMO_769_segment.controller
+  artifactKey: Guid(1ee4f4288c9d039479f71a7018d2cfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/WALK-RUN-CYCLES-MOCAP/WALK-RUN-CYCLES-MOCAP/08-Loop_HappyWalk_MIXAMO_769_segment.controller using Guid(1ee4f4288c9d039479f71a7018d2cfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f65f743a11e0e4b8961fd401144fd78') in 0.024198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4344.014817 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c905ea5f17f3393a06ba0fc4049955fb') in 0.033536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.341266 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7fb7d2ea667b20872fa717ad9e8c465') in 0.010335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.389858 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89a0e3683234a9bfbd1b391a7d667bd') in 0.010098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.759630 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8ab165585f5eacc090ee636eb1cfc3') in 0.011373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.978069 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf1e7bf07dee9c62be5fb293cf4e6fb') in 0.010656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.617526 seconds.
+  path: Assets/Mocap animations/MonsterStalk_1.fbx
+  artifactKey: Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mocap animations/MonsterStalk_1.fbx using Guid(7f816ff469e65a24a89db5e76ec03acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5805fa01d501bccadaf57387c700e600') in 0.011311 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009558 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\529644\Animating character rigs\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\529644\Animating character rigs\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.174 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1175ms)
+		BeginReloadAssembly (244ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (820ms)
+			LoadAssemblies (137ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (269ms)
+				TypeCache.Initialize (266ms)
+					TypeCache.ScanAssembly (258ms)
+				ResolveRequiredComponents (4ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (368ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (56ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (189ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3397 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (25.4 KB). Loaded Objects now: 3870.
+Memory consumption went from 0.51 GB to 0.51 GB.
+Total: 3.543900 ms (FindLiveObjects: 0.290900 ms CreateObjectMapping: 0.096100 ms MarkObjects: 3.116200 ms  DeleteObjects: 0.040100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 102.330775 seconds.
+  path: Assets/Animations/WALK-RUN-CYCLES-MOCAP/WALK-RUN-CYCLES-MOCAP/Biomech_Mutant_Skin_2_bloody.controller
+  artifactKey: Guid(5d256a3adb3265e4f8b6e9ebef3011e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/WALK-RUN-CYCLES-MOCAP/WALK-RUN-CYCLES-MOCAP/Biomech_Mutant_Skin_2_bloody.controller using Guid(5d256a3adb3265e4f8b6e9ebef3011e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c834daff3d7dec49261dedf67af659c9') in 0.045792 seconds 
